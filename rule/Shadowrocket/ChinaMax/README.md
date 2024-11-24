@@ -21,18 +21,18 @@
 
 ## 规则统计
 
-最后更新时间：2024-11-15 02:14:33
+最后更新时间：2024-11-24 02:13:58
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 426  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 92654  | 
+| DOMAIN-SUFFIX | 92532  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 20823  | 
+| IP-CIDR | 20872  | 
 | USER-AGENT | 65  | 
-| TOTAL | 113982  | 
+| TOTAL | 113909  | 
 
 
 ## Shadowrocket 
@@ -179,7 +179,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/HuaWei.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Tencent.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Tencent.list
-- https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/CMedia.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/DomesticMedia.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEase.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Netease.list
